@@ -1,7 +1,8 @@
 # Name: K. S. Bartasarathi
-#Reg.no.: 26BYB0150
 
-##Why I Want to Join WhiteHats
+# Reg.no.: 26BYB0150
+
+## Why I Want to Join WhiteHats
 I am interested in cybersecurity and want to give my fullest to o whatever I can, joining whitehats could be one of the best ways to achieve my goal
 
 ## Cybersecurity Incident I Recently Read About
